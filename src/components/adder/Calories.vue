@@ -136,8 +136,8 @@ export default {
   data() {
     return {
       readerSize: {
-        width: 10,
-        height: 10
+        width: 0,
+        height: 0
       },
       detecteds: [],
       scanning:false,
