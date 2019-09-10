@@ -26,9 +26,9 @@
       </v-toolbar>
 
       <vcontainer>
-        <v-form v-model="rule.valid" ref="form" v-on:submit.prevent>
+        <v-form v-model="rule.valid" ref="form" v-on:submit.prevent  :class="{hiddenoverflow : scanning}">
           <v-row dense align="baseline">
-            <v-col cols="12" md="6">
+            <v-col cols="12" md="6" >
               <v-btn @click="openSelect()" block small outlined>
                 {{ $t('selectTemplate') }}
                 <v-icon right>view_carousel</v-icon>
@@ -49,10 +49,10 @@
             </v-quagga>
             </v-col>
 
-            <v-col cols="12">
+            <v-col cols="12" :class="{hidden : scanning}">
               <v-text-field v-model="fd.title" :label="$t('ft.title')" type="text" outlined />
             </v-col>
-            <v-col cols="6">
+            <v-col cols="6" :class="{hidden : scanning}">
               <v-text-field
                 v-model="fd.date"
                 :label="$t('ft.date')"
@@ -61,7 +61,7 @@
                 outlined
               />
             </v-col>
-            <v-col cols="6">
+            <v-col cols="6" :class="{hidden : scanning}">
               <v-text-field
                 v-model="fd.time"
                 :label="$t('ft.time')"
@@ -72,7 +72,7 @@
               />
             </v-col>
 
-            <v-col cols="12" sm="6">
+            <v-col cols="12" sm="6" :class="{hidden : scanning}">
               <v-text-field
                 v-model="caloriesPer100"
                 :label="$t('caloriesPer100')"
@@ -82,7 +82,7 @@
                 suffix="Kcal"
               />
             </v-col>
-            <v-col cols="12" sm="6">
+            <v-col cols="12" sm="6" :class="{hidden : scanning}">
               <v-text-field
                 v-model="amount"
                 :label="$t('ft.amount')"
@@ -93,7 +93,7 @@
               />
             </v-col>
 
-            <v-col cols="12">
+            <v-col cols="12" :class="{hidden : scanning}">
               <v-text-field
                 v-model="fd.calories"
                 :label="$t('calories')"
@@ -103,7 +103,7 @@
                 outlined
               />
             </v-col>
-            <div class="camera">
+            <div class="camera" :class="{hidden : scanning}">
               <v-btn
                 @click="add()"
                 :loading="sending"
@@ -259,5 +259,11 @@ export default {
 .camera{
     height:10%;
     width:10%;
+}
+.hidden {
+  visibility: hidden;
+}
+.hiddenoverflow {
+  overflow: hidden !important;
 }
 </style>>
