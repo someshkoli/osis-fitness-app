@@ -1,0 +1,200 @@
+{
+    "osis.fit": {
+        "title": "Osis.fit",
+        "description": ""
+    },
+    "food": {
+        "title": "Edibles",
+        "description": "",
+        "own": {
+            "title": "Own",
+            "description": ""
+        },
+        "favorites": {
+            "title": "Favorites",
+            "description": ""
+        },
+        "browse": {
+            "title": "Browse",
+            "description": ""
+        },
+        "add": {
+            "title": "Create Edible",
+            "description": ""
+        },
+        "edit": {
+            "title": "Edit Edible",
+            "description": ""
+        }
+    },
+    "training": {
+        "title": "Training",
+        "description": "",
+        "saved": {
+            "title": "Plans",
+            "description": ""
+        },
+        "favorites": {
+            "title": "Favorite Trainings",
+            "description": ""
+        },
+        "browse": {
+            "title": "Browse Trainings",
+            "description": ""
+        },
+        "new": {
+            "title": "Create Training",
+            "description": ""
+        },
+        "edit": {
+            "title": "Edit Training",
+            "description": ""
+        }
+    },
+    "exercise": {
+        "title": "Exercise",
+        "description": "",
+        "saved": {
+            "title": "Exercises",
+            "description": ""
+        },
+        "edit": {
+            "title": "Edit Exercise",
+            "description": ""
+        },
+        "new": {
+            "title": "Create Exercise",
+            "description": ""
+        },
+        "copy": {
+            "title": "Copy Exercise",
+            "description": ""
+        },
+        "browse": {
+            "title": "Browse Exercises",
+            "description": ""
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "description": ""
+    },
+    "calories": {
+        "title": "Calories",
+        "description": ""
+    },
+    "weight": {
+        "title": "Weight",
+        "description": ""
+    },
+    "activity": {
+        "title": "Activity",
+        "description": ""
+    },
+    "settings": {
+        "title": "Settings",
+        "description": "",
+        "metabolism": {
+            "title": "Metabolism",
+            "description": ""
+        },
+        "profile": {
+            "title": "Edit Profile",
+            "description": ""
+        },
+        "aims": {
+            "title": "Edit Aims",
+            "description": ""
+        },
+        "premium": {
+            "title": "Premium",
+            "description": ""
+        },
+        "account": {
+            "title": "Account",
+            "description": ""
+        }
+    },
+    "logout": {
+        "title": "Logout",
+        "description": ""
+    },
+    "auth": {
+        "title": "Auth",
+        "description": "",
+        "login": {
+            "title": "Login",
+            "description": ""
+        },
+        "register": {
+            "title": "Register",
+            "description": ""
+        },
+        "verify": {
+            "title": "Verify",
+            "description": ""
+        },
+        "forgotten": {
+            "title": "Change password",
+            "description": ""
+        }
+    },
+    "welcome": {
+        "title": "Welcome",
+        "description": ""
+    },
+    "premium": {
+        "title": "Get Premium",
+        "description": ""
+    },
+    "terms": {
+        "title": "Terms of use",
+        "description": "",
+        "cookie": {
+            "title": "Cookie-Policy",
+            "description": ""
+        }
+    },
+    "help": {
+        "title": "Support",
+        "description": "",
+        "contact": {
+            "title": "Contact",
+            "description": ""
+        }
+    },
+    "about": {
+        "title": "About",
+        "description": "",
+        "imprint": {
+            "title": "Imprint",
+            "description": ""
+        },
+        "terms": {
+            "title": "Terms",
+            "description": ""
+        },
+        "cookie": {
+            "title": "Cookie-Policy",
+            "description": ""
+        },
+        "data": {
+            "title": "Privacy-Policy",
+            "description": ""
+        }
+    },
+    "error": {
+        "permission": {
+            "title": "Permissions denied",
+            "description": ""
+        },
+        "found": {
+            "title": "Not Found",
+            "description": ""
+        }
+    },
+    "theme": {
+        "title": "Theme",
+        "description": ""
+    }
+}

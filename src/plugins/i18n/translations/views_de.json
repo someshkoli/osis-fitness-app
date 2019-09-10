@@ -1,0 +1,192 @@
+{
+    "osis.fit": {
+        "title": "Osis.fit",
+        "description": ""
+    },
+    "food": {
+        "title": "Esswaren",
+        "description": "",
+        "own": {
+            "title": "Eigene",
+            "description": ""
+        },
+        "favorites": {
+            "title": "Favoriten",
+            "description": ""
+        },
+        "browse": {
+            "title": "Suche",
+            "description": ""
+        },
+        "add": {
+            "title": "Essware erstellen",
+            "description": ""
+        },
+        "edit": {
+            "title": "Essware bearbeiten",
+            "description": ""
+        }
+    },
+    "training": {
+        "title": "Training",
+        "description": "",
+        "saved": {
+            "title": "Pläne",
+            "description": ""
+        },
+        "favorites": {
+            "title": "Favoriten",
+            "description": ""
+        },
+        "browse": {
+            "title": "Trainings durchsuchen",
+            "description": ""
+        },
+        "new": {
+            "title": "Training erstellen",
+            "description": ""
+        },
+        "edit": {
+            "title": "Training bearbeiten",
+            "description": ""
+        }
+    },
+    "exercise": {
+        "title": "Übung",
+        "description": "",
+        "saved": {
+            "title": "Übungen",
+            "description": ""
+        },
+        "edit": {
+            "title": "Übung bearbeiten",
+            "description": ""
+        },
+        "new": {
+            "title": "Übung erstellen",
+            "description": ""
+        },
+        "copy": {
+            "title": "Übung kopieren",
+            "description": ""
+        },
+        "browse": {
+            "title": "Vorlagen durchsuchen",
+            "description": ""
+        }
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "description": ""
+    },
+    "calories": {
+        "title": "Kalorien",
+        "description": ""
+    },
+    "weight": {
+        "title": "Gewicht",
+        "description": ""
+    },
+    "activity": {
+        "title": "Aktivität",
+        "description": ""
+    },
+    "settings": {
+        "title": "Einstellungen",
+        "description": "",
+        "metabolism": {
+            "title": "Stoffwechsel",
+            "description": ""
+        },
+        "profile": {
+            "title": "Profil bearbeiten",
+            "description": ""
+        },
+        "aims": {
+            "title": "Ziele bearbeiten",
+            "description": ""
+        },
+        "premium": {
+            "title": "Premium",
+            "description": ""
+        },
+        "account": {
+            "title": "Account verwalten",
+            "description": ""
+        }
+    },
+    "logout": {
+        "title": "Abmelden",
+        "description": ""
+    },
+    "auth": {
+        "title": "Authentifizierung",
+        "description": "",
+        "login": {
+            "title": "Anmelden",
+            "description": ""
+        },
+        "register": {
+            "title": "Registrieren",
+            "description": ""
+        },
+        "verify": {
+            "title": "Verifizieren",
+            "description": ""
+        },
+        "forgotten": {
+            "title": "Passwort ändern",
+            "description": ""
+        }
+    },
+    "welcome": {
+        "title": "Willkommen",
+        "description": ""
+    },
+    "premium": {
+        "title": "Premium erhalten",
+        "description": ""
+    },
+    "help": {
+        "title": "Support",
+        "description": "",
+        "contact": {
+            "title": "Kontakt",
+            "description": ""
+        }
+    },
+    "about": {
+        "title": "Über",
+        "description": "",
+        "imprint": {
+            "title": "Impressum",
+            "description": ""
+        },
+        "terms": {
+            "title": "Geschäftsbedingungen",
+            "description": ""
+        },
+        "cookie": {
+            "title": "Cookie-Richtlinie",
+            "description": ""
+        },
+        "data": {
+            "title": "Datenschutzerklärung",
+            "description": ""
+        }
+    },
+    "error": {
+        "permission": {
+            "title": "Zugang verweigert",
+            "description": ""
+        },
+        "found": {
+            "title": "Nicht gefunden",
+            "description": ""
+        }
+    },
+    "theme": {
+        "title": "Theme",
+        "description": ""
+    }
+}
